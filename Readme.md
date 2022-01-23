@@ -1,8 +1,7 @@
-Hello visitors.
+Hello, visitors!
 
-This is obviously the repository hosting my https://tst.legal Page. This new website (domain) is supposedly for 'professional' use simply because literally everyone who sees my https://tst.bar or brief@tst.bar was unable to not associate `bar` with pub. This is even the case for those legal professionals who themselves refer counsel or barrister to bar all the time.
+This is the repository hosting my https://tst.legal Github Page, which contains nothing but a link to my website https://tst.bar and email brief@tst.bar.
 
-So, I purchase this domain. That's it.
+Wonder why? Because literally everyone seeing them was unable to not associate `bar` with a bar. This is even so for those in the legal profession who themselves refer to counsel or barrister as bar all the time.
 
-
-Thank you for visitting https://tst.bar. See you there.
+That's it. See you at https://tst.bar.
